@@ -1,7 +1,7 @@
 ![logo](https://github.com/sakshid-email01/sakshid-email01/blob/main/backgroundpic1.png)
 
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate award-winning full stack developer with 4+ years of experience in the IT industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi" /> </p>
 
